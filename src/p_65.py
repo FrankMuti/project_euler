@@ -5,7 +5,7 @@ class Frac:
     num = 0
     den = 1
 
-    def __init__(self, num, den, reduce=False):
+    def __init__(self, num, den, reduce=True):
         self.num = num
         assert den != 0
         self.den = den
