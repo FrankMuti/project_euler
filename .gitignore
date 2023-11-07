@@ -5,3 +5,7 @@ sol
 *~
 
 .*.un~
+
+*.exe.stackdump
+
+*.exe
